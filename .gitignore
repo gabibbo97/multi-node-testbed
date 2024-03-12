@@ -1,0 +1,6 @@
+.terraform
+.tofu
+*.img
+*.lock.hcl
+*.tfstate*
+artifacts
